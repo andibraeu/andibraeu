@@ -4,7 +4,6 @@ Some stats on my GitHub contributions:
 
 ![](https://raw.githubusercontent.com/andibraeu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/andibraeu/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 ![](https://raw.githubusercontent.com/andibraeu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/andibraeu/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
