@@ -10,7 +10,7 @@ My name is Andreas Bräu, I'm a software developer with focus on getting and kee
 ![Framework: Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-blue?style=flat&logo=Spring-Boot&logoColor=white)
 ![Framework: Symfony](https://img.shields.io/badge/Framework-Symfony-blue?style=flat&logo=Symfony&logoColor=white)
 ![Cloud: AWS](https://img.shields.io/badge/Cloud-AWS-blue?style=flat&logo=Amazon-AWS&logoColor=white)
-![Tool: Kubernetes](https://img.shields.io/badge/Cloud-Kubernetes-blue?style=flat&logo=Kubernetes&logoColor=white)  
+![Tool: Kubernetes](https://img.shields.io/badge/Cloud-Kubernetes-blue?style=flat&logo=Kubernetes&logoColor=white)
 ![Tool: Helm](https://img.shields.io/badge/CI%2FCD-Helm-blue?style=flat&logo=Helm&logoColor=white)
 ![Tool: Flux CD](https://img.shields.io/badge/CI%2FCD-Flux%20CD-blue?style=flat&logo=Flux&logoColor=white)
 ![Tool: Docker](https://img.shields.io/badge/Tool-Docker-blue?style=flat&logo=Docker&logoColor=white)
