@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Recent activities
+
+<!--START_SECTION:activity-->
