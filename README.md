@@ -47,7 +47,7 @@ You like numbers? Here they are:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andibraeu&rank_icon=github&theme=transparent" />
 </a>
 <a href="https://github.com/andibraeu">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andibraeu&layout=compact&langs_count=20&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andibraeu&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </8
 
 <!--
