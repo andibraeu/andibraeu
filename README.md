@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 3. 🎉 Merged PR [#80](https://github.com/freifunk/projects/pull/80) in [freifunk/projects](https://github.com/freifunk/projects)
 4. 🎉 Merged PR [#78](https://github.com/freifunk/projects/pull/78) in [freifunk/projects](https://github.com/freifunk/projects)
 5. 🎉 Merged PR [#77](https://github.com/freifunk/projects/pull/77) in [freifunk/projects](https://github.com/freifunk/projects)
-<!--END_SECTION:activity-->
