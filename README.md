@@ -3,6 +3,7 @@
 My name is Andreas Bräu, I'm a software developer with focus on getting and keeping things running (aka devops). I'm living in Berlin, Germany.
 
 ## 🧰 Technologies and Tools
+
 ![Lang: Kotlin](https://img.shields.io/badge/Lang-Kotlin-blue?style=flat&logo=Kotlin&logoColor=white)
 ![Lang: TypeScript](https://img.shields.io/badge/Lang-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white)
 ![Lang: Python](https://img.shields.io/badge/Lang-Python-blue?style=flat&logo=Python&logoColor=white)
