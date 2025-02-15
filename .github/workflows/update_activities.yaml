@@ -17,3 +17,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
+      - name: Pull in recent blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5"
+          feed_list: "https://blog.andi95.de/en/feed,https://blog.andi95.de/feed"
