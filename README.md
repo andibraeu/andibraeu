@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-Some stats on my GitHub contributions:
+You like numbers? Here they are:
 
-![](https://raw.githubusercontent.com/andibraeu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/andibraeu/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/andibraeu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/andibraeu/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://github.com/andibraeu">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andibraeu&rank_icon=github&theme=transparent" />
+</a>
+<a href="https://github.com/andibraeu">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andibraeu&layout=compact&langs_count=20&card_width=320&theme=transparent" />
+</8
 
 <!--
 **andibraeu/andibraeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
