@@ -38,6 +38,17 @@ Here are some ideas to get you started:
 ## Recent activities
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/andibraeu/andibraeu/pull/1) in [andibraeu/andibraeu](https://github.com/andibraeu/andibraeu)
+2. 💪 Opened PR [#1](https://github.com/andibraeu/andibraeu/pull/1) in [andibraeu/andibraeu](https://github.com/andibraeu/andibraeu)
+3. 🎉 Merged PR [#82](https://github.com/freifunk/projects/pull/82) in [freifunk/projects](https://github.com/freifunk/projects)
+4. 🎉 Merged PR [#81](https://github.com/freifunk/projects/pull/81) in [freifunk/projects](https://github.com/freifunk/projects)
+5. 🎉 Merged PR [#80](https://github.com/freifunk/projects/pull/80) in [freifunk/projects](https://github.com/freifunk/projects)
+6. 🎉 Merged PR [#78](https://github.com/freifunk/projects/pull/78) in [freifunk/projects](https://github.com/freifunk/projects)
+7. 🎉 Merged PR [#77](https://github.com/freifunk/projects/pull/77) in [freifunk/projects](https://github.com/freifunk/projects)
+8. 🎉 Merged PR [#71](https://github.com/freifunk/projects/pull/71) in [freifunk/projects](https://github.com/freifunk/projects)
+9. 🎉 Merged PR [#59](https://github.com/freifunk/projects/pull/59) in [freifunk/projects](https://github.com/freifunk/projects)
+10. 🎉 Merged PR [#76](https://github.com/freifunk/LinkSink/pull/76) in [freifunk/LinkSink](https://github.com/freifunk/LinkSink)
+<!--END_SECTION:activity-->
 1. 🎉 Merged PR [#82](https://github.com/freifunk/projects/pull/82) in [freifunk/projects](https://github.com/freifunk/projects)
 2. 🎉 Merged PR [#81](https://github.com/freifunk/projects/pull/81) in [freifunk/projects](https://github.com/freifunk/projects)
 3. 🎉 Merged PR [#80](https://github.com/freifunk/projects/pull/80) in [freifunk/projects](https://github.com/freifunk/projects)
