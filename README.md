@@ -65,14 +65,14 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#114](https://github.com/pajikos/home-assistant-helm-chart/pull/114) in [pajikos/home-assistant-helm-chart](https://github.com/pajikos/home-assistant-helm-chart)
-2. 🚀 Published release [v1.0.0](https://github.com/andibraeu/RelativeDateParser/releases/tag/v1.0.0) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
-3. 🎉 Merged PR [#2](https://github.com/andibraeu/RelativeDateParser/pull/2) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
-4. 🎉 Merged PR [#1](https://github.com/andibraeu/RelativeDateParser/pull/1) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
-5. 🎉 Merged PR [#4](https://github.com/andibraeu/RelativeDateParser/pull/4) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
-6. 🎉 Merged PR [#6](https://github.com/andibraeu/hotfix.icu/pull/6) in [andibraeu/hotfix.icu](https://github.com/andibraeu/hotfix.icu)
-7. 🎉 Merged PR [#1](https://github.com/andibraeu/andibraeu/pull/1) in [andibraeu/andibraeu](https://github.com/andibraeu/andibraeu)
-8. 💪 Opened PR [#1](https://github.com/andibraeu/andibraeu/pull/1) in [andibraeu/andibraeu](https://github.com/andibraeu/andibraeu)
+1. 💪 Opened PR [#115](https://github.com/pajikos/home-assistant-helm-chart/pull/115) in [pajikos/home-assistant-helm-chart](https://github.com/pajikos/home-assistant-helm-chart)
+2. 💪 Opened PR [#114](https://github.com/pajikos/home-assistant-helm-chart/pull/114) in [pajikos/home-assistant-helm-chart](https://github.com/pajikos/home-assistant-helm-chart)
+3. 🚀 Published release [v1.0.0](https://github.com/andibraeu/RelativeDateParser/releases/tag/v1.0.0) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
+4. 🎉 Merged PR [#2](https://github.com/andibraeu/RelativeDateParser/pull/2) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
+5. 🎉 Merged PR [#1](https://github.com/andibraeu/RelativeDateParser/pull/1) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
+6. 🎉 Merged PR [#4](https://github.com/andibraeu/RelativeDateParser/pull/4) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
+7. 🎉 Merged PR [#6](https://github.com/andibraeu/hotfix.icu/pull/6) in [andibraeu/hotfix.icu](https://github.com/andibraeu/hotfix.icu)
+8. 🎉 Merged PR [#1](https://github.com/andibraeu/andibraeu/pull/1) in [andibraeu/andibraeu](https://github.com/andibraeu/andibraeu)
 9. 🎉 Merged PR [#81](https://github.com/freifunk/projects/pull/81) in [freifunk/projects](https://github.com/freifunk/projects)
 10. 🎉 Merged PR [#59](https://github.com/freifunk/projects/pull/59) in [freifunk/projects](https://github.com/freifunk/projects)
 <!--END_SECTION:activity-->
