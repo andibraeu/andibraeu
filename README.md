@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/freifunk/generator.api.freifunk.net/pull/88) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-2. 🎉 Merged PR [#15](https://github.com/freifunk/feed.api.freifunk.net/pull/15) in [freifunk/feed.api.freifunk.net](https://github.com/freifunk/feed.api.freifunk.net)
-3. 🎉 Merged PR [#5](https://github.com/andibraeu/RelativeDateParser/pull/5) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
-4. ❌ Closed PR [#34](https://github.com/andibraeu/naturkunde.museum/pull/34) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
-5. ❌ Closed PR [#35](https://github.com/andibraeu/naturkunde.museum/pull/35) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
-6. ❌ Closed PR [#33](https://github.com/andibraeu/naturkunde.museum/pull/33) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
-7. ❌ Closed PR [#32](https://github.com/andibraeu/naturkunde.museum/pull/32) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
-8. ❌ Closed PR [#31](https://github.com/andibraeu/naturkunde.museum/pull/31) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
-9. ❌ Closed PR [#30](https://github.com/andibraeu/naturkunde.museum/pull/30) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
-10. ❌ Closed PR [#29](https://github.com/andibraeu/naturkunde.museum/pull/29) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
+1. 🗣 Commented on [#115](https://github.com/pajikos/home-assistant-helm-chart/pull/115#issuecomment-2708910233) in [pajikos/home-assistant-helm-chart](https://github.com/pajikos/home-assistant-helm-chart)
+2. 🎉 Merged PR [#88](https://github.com/freifunk/generator.api.freifunk.net/pull/88) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+3. 🎉 Merged PR [#15](https://github.com/freifunk/feed.api.freifunk.net/pull/15) in [freifunk/feed.api.freifunk.net](https://github.com/freifunk/feed.api.freifunk.net)
+4. 🎉 Merged PR [#5](https://github.com/andibraeu/RelativeDateParser/pull/5) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
+5. ❌ Closed PR [#34](https://github.com/andibraeu/naturkunde.museum/pull/34) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
+6. ❌ Closed PR [#35](https://github.com/andibraeu/naturkunde.museum/pull/35) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
+7. ❌ Closed PR [#33](https://github.com/andibraeu/naturkunde.museum/pull/33) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
+8. ❌ Closed PR [#32](https://github.com/andibraeu/naturkunde.museum/pull/32) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
+9. ❌ Closed PR [#31](https://github.com/andibraeu/naturkunde.museum/pull/31) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
+10. ❌ Closed PR [#30](https://github.com/andibraeu/naturkunde.museum/pull/30) in [andibraeu/naturkunde.museum](https://github.com/andibraeu/naturkunde.museum)
 <!--END_SECTION:activity-->
 
 
