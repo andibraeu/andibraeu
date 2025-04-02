@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/freifunk/calcifer/pull/34) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
-2. 💪 Opened PR [#34](https://github.com/freifunk/calcifer/pull/34) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
-3. 🎉 Merged PR [#85](https://github.com/freifunk/projects/pull/85) in [freifunk/projects](https://github.com/freifunk/projects)
-4. ❌ Closed PR [#34](https://github.com/freifunk/projects/pull/34) in [freifunk/projects](https://github.com/freifunk/projects)
-5. 🗣 Commented on [#38](https://github.com/freifunk/projects/issues/38#issuecomment-2760580696) in [freifunk/projects](https://github.com/freifunk/projects)
-6. 🎉 Merged PR [#2](https://github.com/andibraeu/helmcharts/pull/2) in [andibraeu/helmcharts](https://github.com/andibraeu/helmcharts)
-7. 🎉 Merged PR [#1](https://github.com/andibraeu/helmcharts/pull/1) in [andibraeu/helmcharts](https://github.com/andibraeu/helmcharts)
-8. 🎉 Merged PR [#91](https://github.com/freifunk/generator.api.freifunk.net/pull/91) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-9. 🎉 Merged PR [#94](https://github.com/freifunk/generator.api.freifunk.net/pull/94) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-10. 🎉 Merged PR [#95](https://github.com/freifunk/generator.api.freifunk.net/pull/95) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+1. 🎉 Merged PR [#36](https://github.com/freifunk/calcifer/pull/36) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
+2. 🎉 Merged PR [#34](https://github.com/freifunk/calcifer/pull/34) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
+3. 💪 Opened PR [#34](https://github.com/freifunk/calcifer/pull/34) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
+4. 🎉 Merged PR [#85](https://github.com/freifunk/projects/pull/85) in [freifunk/projects](https://github.com/freifunk/projects)
+5. ❌ Closed PR [#34](https://github.com/freifunk/projects/pull/34) in [freifunk/projects](https://github.com/freifunk/projects)
+6. 🗣 Commented on [#38](https://github.com/freifunk/projects/issues/38#issuecomment-2760580696) in [freifunk/projects](https://github.com/freifunk/projects)
+7. 🎉 Merged PR [#2](https://github.com/andibraeu/helmcharts/pull/2) in [andibraeu/helmcharts](https://github.com/andibraeu/helmcharts)
+8. 🎉 Merged PR [#1](https://github.com/andibraeu/helmcharts/pull/1) in [andibraeu/helmcharts](https://github.com/andibraeu/helmcharts)
+9. 🎉 Merged PR [#91](https://github.com/freifunk/generator.api.freifunk.net/pull/91) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+10. 🎉 Merged PR [#94](https://github.com/freifunk/generator.api.freifunk.net/pull/94) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
 <!--END_SECTION:activity-->
 
 
