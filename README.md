@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2902355700) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-2. 💪 Opened PR [#18683](https://github.com/openhab/openhab-addons/pull/18683) in [openhab/openhab-addons](https://github.com/openhab/openhab-addons)
-3. 🎉 Merged PR [#36](https://github.com/freifunk/calcifer/pull/36) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
+1. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2904446905) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+2. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2902355700) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+3. 💪 Opened PR [#18683](https://github.com/openhab/openhab-addons/pull/18683) in [openhab/openhab-addons](https://github.com/openhab/openhab-addons)
 4. 🎉 Merged PR [#34](https://github.com/freifunk/calcifer/pull/34) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
 5. 💪 Opened PR [#34](https://github.com/freifunk/calcifer/pull/34) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
 6. 🎉 Merged PR [#85](https://github.com/freifunk/projects/pull/85) in [freifunk/projects](https://github.com/freifunk/projects)
