@@ -65,13 +65,13 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#260](https://github.com/voc/streaming-website/pull/260) in [voc/streaming-website](https://github.com/voc/streaming-website)
-2. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2908908833) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-3. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2904446905) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-4. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2902355700) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-5. 💪 Opened PR [#18683](https://github.com/openhab/openhab-addons/pull/18683) in [openhab/openhab-addons](https://github.com/openhab/openhab-addons)
-6. 🎉 Merged PR [#85](https://github.com/freifunk/projects/pull/85) in [freifunk/projects](https://github.com/freifunk/projects)
-7. ❌ Closed PR [#34](https://github.com/freifunk/projects/pull/34) in [freifunk/projects](https://github.com/freifunk/projects)
+1. 🎉 Merged PR [#1](https://github.com/freifunk/videoodyssee-api/pull/1) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
+2. 🎉 Merged PR [#1](https://github.com/freifunk/videoodyssee-frontend/pull/1) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+3. 💪 Opened PR [#260](https://github.com/voc/streaming-website/pull/260) in [voc/streaming-website](https://github.com/voc/streaming-website)
+4. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2908908833) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+5. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2904446905) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+6. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2902355700) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+7. 💪 Opened PR [#18683](https://github.com/openhab/openhab-addons/pull/18683) in [openhab/openhab-addons](https://github.com/openhab/openhab-addons)
 8. 🗣 Commented on [#38](https://github.com/freifunk/projects/issues/38#issuecomment-2760580696) in [freifunk/projects](https://github.com/freifunk/projects)
 9. 🎉 Merged PR [#2](https://github.com/andibraeu/helmcharts/pull/2) in [andibraeu/helmcharts](https://github.com/andibraeu/helmcharts)
 10. 🎉 Merged PR [#1](https://github.com/andibraeu/helmcharts/pull/1) in [andibraeu/helmcharts](https://github.com/andibraeu/helmcharts)
