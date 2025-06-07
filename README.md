@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/freifunk/feed.api.freifunk.net/pull/16) in [freifunk/feed.api.freifunk.net](https://github.com/freifunk/feed.api.freifunk.net)
-2. 💪 Opened PR [#261](https://github.com/voc/streaming-website/pull/261) in [voc/streaming-website](https://github.com/voc/streaming-website)
-3. 🎉 Merged PR [#1](https://github.com/freifunk/videoodyssee-api/pull/1) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
-4. 🎉 Merged PR [#1](https://github.com/freifunk/videoodyssee-frontend/pull/1) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-5. 💪 Opened PR [#260](https://github.com/voc/streaming-website/pull/260) in [voc/streaming-website](https://github.com/voc/streaming-website)
-6. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2908908833) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-7. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2904446905) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-8. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-2902355700) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-9. 💪 Opened PR [#18683](https://github.com/openhab/openhab-addons/pull/18683) in [openhab/openhab-addons](https://github.com/openhab/openhab-addons)
-10. 🎉 Merged PR [#1](https://github.com/andibraeu/helmcharts/pull/1) in [andibraeu/helmcharts](https://github.com/andibraeu/helmcharts)
+1. 🎉 Merged PR [#8](https://github.com/freifunk/videoodyssee-frontend/pull/8) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+2. 💪 Opened PR [#8](https://github.com/freifunk/videoodyssee-frontend/pull/8) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+3. 🎉 Merged PR [#90](https://github.com/freifunk/projects/pull/90) in [freifunk/projects](https://github.com/freifunk/projects)
+4. 🎉 Merged PR [#51](https://github.com/freifunk/viewer.api.freifunk.net/pull/51) in [freifunk/viewer.api.freifunk.net](https://github.com/freifunk/viewer.api.freifunk.net)
+5. 🎉 Merged PR [#49](https://github.com/freifunk/viewer.api.freifunk.net/pull/49) in [freifunk/viewer.api.freifunk.net](https://github.com/freifunk/viewer.api.freifunk.net)
+6. 🎉 Merged PR [#16](https://github.com/freifunk/feed.api.freifunk.net/pull/16) in [freifunk/feed.api.freifunk.net](https://github.com/freifunk/feed.api.freifunk.net)
+7. 💪 Opened PR [#261](https://github.com/voc/streaming-website/pull/261) in [voc/streaming-website](https://github.com/voc/streaming-website)
+8. 🎉 Merged PR [#1](https://github.com/freifunk/videoodyssee-api/pull/1) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
+9. 🎉 Merged PR [#1](https://github.com/freifunk/videoodyssee-frontend/pull/1) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+10. 💪 Opened PR [#260](https://github.com/voc/streaming-website/pull/260) in [voc/streaming-website](https://github.com/voc/streaming-website)
 <!--END_SECTION:activity-->
 
 
