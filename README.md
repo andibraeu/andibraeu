@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/freifunk/videoodyssee-frontend/pull/22) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-2. 🎉 Merged PR [#21](https://github.com/freifunk/videoodyssee-frontend/pull/21) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-3. 🎉 Merged PR [#20](https://github.com/freifunk/videoodyssee-frontend/pull/20) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-4. 🎉 Merged PR [#19](https://github.com/freifunk/videoodyssee-frontend/pull/19) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-5. 🎉 Merged PR [#18](https://github.com/freifunk/videoodyssee-frontend/pull/18) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-6. 🗣 Commented on [#2](https://github.com/freifunk/videoodyssee-frontend/pull/2#issuecomment-2991786189) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-7. ❌ Closed PR [#2](https://github.com/freifunk/videoodyssee-frontend/pull/2) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-8. 🎉 Merged PR [#16](https://github.com/freifunk/videoodyssee-frontend/pull/16) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-9. 🎉 Merged PR [#8](https://github.com/freifunk/videoodyssee-frontend/pull/8) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-10. 💪 Opened PR [#8](https://github.com/freifunk/videoodyssee-frontend/pull/8) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+1. 🎉 Merged PR [#12](https://github.com/freifunk/videoodyssee-api/pull/12) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
+2. 🎉 Merged PR [#22](https://github.com/freifunk/videoodyssee-frontend/pull/22) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+3. 🎉 Merged PR [#21](https://github.com/freifunk/videoodyssee-frontend/pull/21) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+4. 🎉 Merged PR [#20](https://github.com/freifunk/videoodyssee-frontend/pull/20) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+5. 🎉 Merged PR [#19](https://github.com/freifunk/videoodyssee-frontend/pull/19) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+6. 🎉 Merged PR [#18](https://github.com/freifunk/videoodyssee-frontend/pull/18) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+7. 🗣 Commented on [#2](https://github.com/freifunk/videoodyssee-frontend/pull/2#issuecomment-2991786189) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+8. ❌ Closed PR [#2](https://github.com/freifunk/videoodyssee-frontend/pull/2) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+9. 🎉 Merged PR [#16](https://github.com/freifunk/videoodyssee-frontend/pull/16) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+10. 🎉 Merged PR [#8](https://github.com/freifunk/videoodyssee-frontend/pull/8) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
 <!--END_SECTION:activity-->
 
 
