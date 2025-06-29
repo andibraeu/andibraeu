@@ -30,10 +30,10 @@ In my blog [Digital Worlds](https://blog.andi95.de) I try to share my knowledge 
 
 <!-- BLOG-POST-LIST:START -->
 - [Kubernetes Secrets with Sealed Secrets](https://blog.andi95.de/en/2025/03/kubernetes-secrets-with-sealed-secrets/?pk_campaign=feed&pk_kwd=kubernetes-secrets-with-sealed-secrets)
+- [Smarthome: Von FHEM über openHAB zu Home Assistant](https://blog.andi95.de/2025/03/smarthome-von-fhem-ueber-openhab-zu-home-assistant/?pk_campaign=feed&pk_kwd=smarthome-von-fhem-ueber-openhab-zu-home-assistant)
 - [GitOps with FluxCD for my home Kubernetes cluster](https://blog.andi95.de/en/2025/03/gitops-with-fluxcd-for-my-home-kubernetes-cluster/?pk_campaign=feed&pk_kwd=gitops-with-fluxcd-for-my-home-kubernetes-cluster)
 - [Initialisation of my home Kubernetes cluster: k3s with Ansible](https://blog.andi95.de/en/2025/02/initialisation-of-my-home-kubernetes-cluster-k3s-with-ansible/?pk_campaign=feed&pk_kwd=initialisation-of-my-home-kubernetes-cluster-k3s-with-ansible)
-- [The structure of my Kubernetes home cluster: the choice of hardware](https://blog.andi95.de/en/2025/02/the-structure-of-my-kubernetes-home-cluster-the-choice-of-hardware/?pk_campaign=feed&pk_kwd=the-structure-of-my-kubernetes-home-cluster-the-choice-of-hardware)
-- [Introduction to my Kubernetes home cluster: Why and how?](https://blog.andi95.de/en/2025/02/introduction-to-my-kubernetes-home-cluster-why-and-how/?pk_campaign=feed&pk_kwd=introduction-to-my-kubernetes-home-cluster-why-and-how)
+- [Wenn automatische Updates fehlschlagen](https://blog.andi95.de/2025/02/wenn-automatische-updates-fehlschlagen/?pk_campaign=feed&pk_kwd=wenn-automatische-updates-fehlschlagen)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Numbers and Stats
