@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#731](https://github.com/freifunk/directory.api.freifunk.net/pull/731) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-2. 🎉 Merged PR [#732](https://github.com/freifunk/directory.api.freifunk.net/pull/732) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-3. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-3018607146) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-4. 🎉 Merged PR [#13](https://github.com/freifunk/videoodyssee-api/pull/13) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
-5. 🎉 Merged PR [#12](https://github.com/freifunk/videoodyssee-api/pull/12) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
-6. 🎉 Merged PR [#22](https://github.com/freifunk/videoodyssee-frontend/pull/22) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-7. 🎉 Merged PR [#21](https://github.com/freifunk/videoodyssee-frontend/pull/21) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-8. 🎉 Merged PR [#20](https://github.com/freifunk/videoodyssee-frontend/pull/20) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-9. 🎉 Merged PR [#19](https://github.com/freifunk/videoodyssee-frontend/pull/19) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
-10. 🎉 Merged PR [#18](https://github.com/freifunk/videoodyssee-frontend/pull/18) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+1. 🎉 Merged PR [#125](https://github.com/freifunk/LinkSink/pull/125) in [freifunk/LinkSink](https://github.com/freifunk/LinkSink)
+2. 🎉 Merged PR [#65](https://github.com/freifunk/calcifer/pull/65) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
+3. 🎉 Merged PR [#731](https://github.com/freifunk/directory.api.freifunk.net/pull/731) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+4. 🎉 Merged PR [#732](https://github.com/freifunk/directory.api.freifunk.net/pull/732) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+5. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-3018607146) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+6. 🎉 Merged PR [#13](https://github.com/freifunk/videoodyssee-api/pull/13) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
+7. 🎉 Merged PR [#12](https://github.com/freifunk/videoodyssee-api/pull/12) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
+8. 🎉 Merged PR [#22](https://github.com/freifunk/videoodyssee-frontend/pull/22) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+9. 🎉 Merged PR [#21](https://github.com/freifunk/videoodyssee-frontend/pull/21) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+10. 🎉 Merged PR [#20](https://github.com/freifunk/videoodyssee-frontend/pull/20) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
 <!--END_SECTION:activity-->
 
 
