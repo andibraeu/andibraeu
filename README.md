@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176](https://github.com/freifunk/api.freifunk.net/issues/176#issuecomment-3045251888) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-2. 🚀 Published release [v0.5.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.5.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-3. 🎉 Merged PR [#125](https://github.com/freifunk/LinkSink/pull/125) in [freifunk/LinkSink](https://github.com/freifunk/LinkSink)
-4. 🎉 Merged PR [#65](https://github.com/freifunk/calcifer/pull/65) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
-5. 🎉 Merged PR [#731](https://github.com/freifunk/directory.api.freifunk.net/pull/731) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-6. 🎉 Merged PR [#732](https://github.com/freifunk/directory.api.freifunk.net/pull/732) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-7. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-3018607146) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-8. 🎉 Merged PR [#13](https://github.com/freifunk/videoodyssee-api/pull/13) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
-9. 🎉 Merged PR [#12](https://github.com/freifunk/videoodyssee-api/pull/12) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
-10. 🎉 Merged PR [#22](https://github.com/freifunk/videoodyssee-frontend/pull/22) in [freifunk/videoodyssee-frontend](https://github.com/freifunk/videoodyssee-frontend)
+1. 🗣 Commented on [#177](https://github.com/freifunk/api.freifunk.net/issues/177#issuecomment-3045504572) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+2. 🗣 Commented on [#176](https://github.com/freifunk/api.freifunk.net/issues/176#issuecomment-3045251888) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+3. 🚀 Published release [v0.5.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.5.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+4. 🎉 Merged PR [#125](https://github.com/freifunk/LinkSink/pull/125) in [freifunk/LinkSink](https://github.com/freifunk/LinkSink)
+5. 🎉 Merged PR [#65](https://github.com/freifunk/calcifer/pull/65) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
+6. 🎉 Merged PR [#731](https://github.com/freifunk/directory.api.freifunk.net/pull/731) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+7. 🎉 Merged PR [#732](https://github.com/freifunk/directory.api.freifunk.net/pull/732) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+8. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-3018607146) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+9. 🎉 Merged PR [#13](https://github.com/freifunk/videoodyssee-api/pull/13) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
+10. 🎉 Merged PR [#12](https://github.com/freifunk/videoodyssee-api/pull/12) in [freifunk/videoodyssee-api](https://github.com/freifunk/videoodyssee-api)
 <!--END_SECTION:activity-->
 
 
