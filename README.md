@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/freifunk/generator.api.freifunk.net/issues/66#issuecomment-3067015997) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-2. 🗣 Commented on [#66](https://github.com/freifunk/generator.api.freifunk.net/issues/66#issuecomment-3067014476) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-3. 🎉 Merged PR [#181](https://github.com/freifunk/generator.api.freifunk.net/pull/181) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-4. 🗣 Commented on [#175](https://github.com/freifunk/api.freifunk.net/issues/175#issuecomment-3067013271) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-5. 🔒 Closed issue [#175](https://github.com/freifunk/api.freifunk.net/issues/175) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-6. 🎉 Merged PR [#170](https://github.com/freifunk/generator.api.freifunk.net/pull/170) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-7. 🎉 Merged PR [#163](https://github.com/freifunk/generator.api.freifunk.net/pull/163) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-8. 🎉 Merged PR [#166](https://github.com/freifunk/generator.api.freifunk.net/pull/166) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-9. 🎉 Merged PR [#98](https://github.com/freifunk/generator.api.freifunk.net/pull/98) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-10. 🔒 Closed issue [#176](https://github.com/freifunk/api.freifunk.net/issues/176) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+1. 🎉 Merged PR [#13](https://github.com/freifunk/social-media-archive/pull/13) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+2. 🎉 Merged PR [#14](https://github.com/freifunk/social-media-archive/pull/14) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+3. 🎉 Merged PR [#1](https://github.com/freifunk/videopipeline/pull/1) in [freifunk/videopipeline](https://github.com/freifunk/videopipeline)
+4. 🗣 Commented on [#66](https://github.com/freifunk/generator.api.freifunk.net/issues/66#issuecomment-3067015997) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+5. 🗣 Commented on [#66](https://github.com/freifunk/generator.api.freifunk.net/issues/66#issuecomment-3067014476) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+6. 🎉 Merged PR [#181](https://github.com/freifunk/generator.api.freifunk.net/pull/181) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+7. 🗣 Commented on [#175](https://github.com/freifunk/api.freifunk.net/issues/175#issuecomment-3067013271) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+8. 🔒 Closed issue [#175](https://github.com/freifunk/api.freifunk.net/issues/175) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+9. 🎉 Merged PR [#170](https://github.com/freifunk/generator.api.freifunk.net/pull/170) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+10. 🎉 Merged PR [#163](https://github.com/freifunk/generator.api.freifunk.net/pull/163) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
 <!--END_SECTION:activity-->
 
 
