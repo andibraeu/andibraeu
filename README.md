@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#176](https://github.com/freifunk/api.freifunk.net/issues/176) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-2. 🎉 Merged PR [#178](https://github.com/freifunk/api.freifunk.net/pull/178) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-3. 🚀 Published release [update go and dependencies](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.6.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-4. 🗣 Commented on [#177](https://github.com/freifunk/api.freifunk.net/issues/177#issuecomment-3045504572) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-5. 🗣 Commented on [#176](https://github.com/freifunk/api.freifunk.net/issues/176#issuecomment-3045251888) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-6. 🚀 Published release [v0.5.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.5.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-7. 🎉 Merged PR [#125](https://github.com/freifunk/LinkSink/pull/125) in [freifunk/LinkSink](https://github.com/freifunk/LinkSink)
-8. 🎉 Merged PR [#65](https://github.com/freifunk/calcifer/pull/65) in [freifunk/calcifer](https://github.com/freifunk/calcifer)
-9. 🎉 Merged PR [#731](https://github.com/freifunk/directory.api.freifunk.net/pull/731) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-10. 🎉 Merged PR [#732](https://github.com/freifunk/directory.api.freifunk.net/pull/732) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+1. 🗣 Commented on [#66](https://github.com/freifunk/generator.api.freifunk.net/issues/66#issuecomment-3067015997) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+2. 🗣 Commented on [#66](https://github.com/freifunk/generator.api.freifunk.net/issues/66#issuecomment-3067014476) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+3. 🎉 Merged PR [#181](https://github.com/freifunk/generator.api.freifunk.net/pull/181) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+4. 🗣 Commented on [#175](https://github.com/freifunk/api.freifunk.net/issues/175#issuecomment-3067013271) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+5. 🔒 Closed issue [#175](https://github.com/freifunk/api.freifunk.net/issues/175) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+6. 🎉 Merged PR [#170](https://github.com/freifunk/generator.api.freifunk.net/pull/170) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+7. 🎉 Merged PR [#163](https://github.com/freifunk/generator.api.freifunk.net/pull/163) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+8. 🎉 Merged PR [#166](https://github.com/freifunk/generator.api.freifunk.net/pull/166) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+9. 🎉 Merged PR [#98](https://github.com/freifunk/generator.api.freifunk.net/pull/98) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+10. 🔒 Closed issue [#176](https://github.com/freifunk/api.freifunk.net/issues/176) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
 <!--END_SECTION:activity-->
 
 
