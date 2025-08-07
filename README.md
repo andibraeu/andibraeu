@@ -66,15 +66,15 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#17](https://github.com/freifunk/social-media-archive/issues/17) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-2. 🎉 Merged PR [#32](https://github.com/freifunk/social-media-archive/pull/32) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-3. 🗣 Commented on [#197](https://github.com/freifunk/meshviewer/issues/197#issuecomment-3149783942) in [freifunk/meshviewer](https://github.com/freifunk/meshviewer)
-4. 🎉 Merged PR [#739](https://github.com/freifunk/directory.api.freifunk.net/pull/739) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-5. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-3136480345) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-6. 🎉 Merged PR [#17](https://github.com/freifunk/feed.api.freifunk.net/pull/17) in [freifunk/feed.api.freifunk.net](https://github.com/freifunk/feed.api.freifunk.net)
-7. 🎉 Merged PR [#738](https://github.com/freifunk/directory.api.freifunk.net/pull/738) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-8. 🎉 Merged PR [#734](https://github.com/freifunk/directory.api.freifunk.net/pull/734) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-9. 🎉 Merged PR [#735](https://github.com/freifunk/directory.api.freifunk.net/pull/735) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-10. 🎉 Merged PR [#736](https://github.com/freifunk/directory.api.freifunk.net/pull/736) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+2. 🗣 Commented on [#197](https://github.com/freifunk/meshviewer/issues/197#issuecomment-3149783942) in [freifunk/meshviewer](https://github.com/freifunk/meshviewer)
+3. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-3136480345) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+4. 🗣 Commented on [#737](https://github.com/freifunk/directory.api.freifunk.net/pull/737#issuecomment-3110080687) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+5.  Labeled issue [#17](https://github.com/freifunk/social-media-archive/issues/17) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+6. ❗ Opened issue [#17](https://github.com/freifunk/social-media-archive/issues/17) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+7. 🗣 Commented on [#66](https://github.com/freifunk/generator.api.freifunk.net/issues/66#issuecomment-3067015997) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+8. 🗣 Commented on [#66](https://github.com/freifunk/generator.api.freifunk.net/issues/66#issuecomment-3067014476) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+9. 🗣 Commented on [#175](https://github.com/freifunk/api.freifunk.net/issues/175#issuecomment-3067013271) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+10. 🔒 Closed issue [#175](https://github.com/freifunk/api.freifunk.net/issues/175) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
 <!--END_SECTION:activity-->
 
 
