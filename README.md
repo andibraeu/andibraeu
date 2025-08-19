@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/8) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-2. 🎉 Merged PR [#2](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-3. 🎉 Merged PR [#3](https://github.com/weimarnetz/imagebuilder/pull/3) in [weimarnetz/imagebuilder](https://github.com/weimarnetz/imagebuilder)
-4. 🗣 Commented on [#40](https://github.com/opencloud-eu/helm/issues/40#issuecomment-3182447364) in [opencloud-eu/helm](https://github.com/opencloud-eu/helm)
-5. 🔒 Closed issue [#17](https://github.com/freifunk/social-media-archive/issues/17) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-6. 🎉 Merged PR [#32](https://github.com/freifunk/social-media-archive/pull/32) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-7. 🗣 Commented on [#197](https://github.com/freifunk/meshviewer/issues/197#issuecomment-3149783942) in [freifunk/meshviewer](https://github.com/freifunk/meshviewer)
-8. 🎉 Merged PR [#739](https://github.com/freifunk/directory.api.freifunk.net/pull/739) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-9. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-3136480345) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-10. 🎉 Merged PR [#17](https://github.com/freifunk/feed.api.freifunk.net/pull/17) in [freifunk/feed.api.freifunk.net](https://github.com/freifunk/feed.api.freifunk.net)
+1. 🎉 Merged PR [#10](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/10) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+2. 🎉 Merged PR [#8](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/8) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+3. 🎉 Merged PR [#2](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+4. 🎉 Merged PR [#3](https://github.com/weimarnetz/imagebuilder/pull/3) in [weimarnetz/imagebuilder](https://github.com/weimarnetz/imagebuilder)
+5. 🗣 Commented on [#40](https://github.com/opencloud-eu/helm/issues/40#issuecomment-3182447364) in [opencloud-eu/helm](https://github.com/opencloud-eu/helm)
+6. 🔒 Closed issue [#17](https://github.com/freifunk/social-media-archive/issues/17) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+7. 🎉 Merged PR [#32](https://github.com/freifunk/social-media-archive/pull/32) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+8. 🗣 Commented on [#197](https://github.com/freifunk/meshviewer/issues/197#issuecomment-3149783942) in [freifunk/meshviewer](https://github.com/freifunk/meshviewer)
+9. 🎉 Merged PR [#739](https://github.com/freifunk/directory.api.freifunk.net/pull/739) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+10. 🗣 Commented on [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730#issuecomment-3136480345) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
 <!--END_SECTION:activity-->
 
 
