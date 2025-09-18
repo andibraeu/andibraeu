@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#740](https://github.com/freifunk/directory.api.freifunk.net/pull/740#issuecomment-3234782245) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-2. 🗣 Commented on [#740](https://github.com/freifunk/directory.api.freifunk.net/pull/740#issuecomment-3219938343) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+1. 🎉 Merged PR [#740](https://github.com/freifunk/directory.api.freifunk.net/pull/740) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+2. 🗣 Commented on [#740](https://github.com/freifunk/directory.api.freifunk.net/pull/740#issuecomment-3234782245) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
 3. 🗣 Commented on [#740](https://github.com/freifunk/directory.api.freifunk.net/pull/740#issuecomment-3219938343) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
 4. 🎉 Merged PR [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
 5. 🎉 Merged PR [#10](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/10) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
