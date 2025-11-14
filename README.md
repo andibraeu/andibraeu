@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-2. 💪 Opened PR [#74](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-3. 🗣 Commented on [#740](https://github.com/freifunk/directory.api.freifunk.net/pull/740#issuecomment-3219938343) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-4. 🎉 Merged PR [#730](https://github.com/freifunk/directory.api.freifunk.net/pull/730) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+1.  Labeled issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+2. ❗ Opened issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+3. 💪 Opened PR [#75](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+4. 💪 Opened PR [#74](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
 5. 🎉 Merged PR [#10](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/10) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 6. 🎉 Merged PR [#8](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/8) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 7. 🎉 Merged PR [#2](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
