@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-2. ❗ Opened issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-3. 💪 Opened PR [#75](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-4. 💪 Opened PR [#74](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-5. 🎉 Merged PR [#10](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/10) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+1. 🚀 Published release [v0.7.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.7.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+2.  Labeled issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+3. ❗ Opened issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+4. 💪 Opened PR [#75](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+5. 💪 Opened PR [#74](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
 6. 🎉 Merged PR [#8](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/8) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 7. 🎉 Merged PR [#2](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 8. 🎉 Merged PR [#3](https://github.com/weimarnetz/imagebuilder/pull/3) in [weimarnetz/imagebuilder](https://github.com/weimarnetz/imagebuilder)
