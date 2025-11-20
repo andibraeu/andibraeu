@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.7.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.7.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+1. 🚀 Published release [v0.7.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.7.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 2.  Labeled issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 3. ❗ Opened issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 4. 💪 Opened PR [#75](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
