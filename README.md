@@ -65,13 +65,13 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.7.2](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.7.2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-2. ❌ Merged PR [#82](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-3. ❗ Opened issue [#83](https://github.com/freifunk/social-media-archive/issues/83) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-4. 💪 Opened PR [#82](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
-5. 🚀 Published release [v0.7.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.7.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-6.  Labeled issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-7. ❗ Opened issue [#45081](https://github.com/hashicorp/terraform-provider-aws/issues/45081) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+1. 🗣 Commented on [#737](https://github.com/freifunk/directory.api.freifunk.net/pull/737#issuecomment-3654851218) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+2. ❌ Closed PR [#737](undefined) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+3. 🚀 Published release [v0.7.2](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.7.2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+4. ❌ Merged PR [#82](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+5. ❗ Opened issue [#83](https://github.com/freifunk/social-media-archive/issues/83) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+6. 💪 Opened PR [#82](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+7. 🚀 Published release [v0.7.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.7.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 8. ❌ Merged PR [#75](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
 9. 💪 Opened PR [#75](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
 10. ❌ Merged PR [#74](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
