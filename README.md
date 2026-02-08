@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.8.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+1. 🚀 Published release [v0.8.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 2. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3867044111) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 3. ❌ Closed PR [#102](https://github.com/freifunk/projects/pull/102) in [freifunk/projects](https://github.com/freifunk/projects)
 4. ❌ Closed PR [#97](https://github.com/freifunk/projects/pull/97) in [freifunk/projects](https://github.com/freifunk/projects)
