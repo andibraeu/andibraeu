@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#102](https://github.com/freifunk/projects/pull/102) in [freifunk/projects](https://github.com/freifunk/projects)
-2. ❌ Closed PR [#97](https://github.com/freifunk/projects/pull/97) in [freifunk/projects](https://github.com/freifunk/projects)
-3. 🗣 Commented on [#83](https://github.com/freifunk/social-media-archive/issues/83#issuecomment-3707050427) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+1. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3867044111) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+2. ❌ Closed PR [#102](https://github.com/freifunk/projects/pull/102) in [freifunk/projects](https://github.com/freifunk/projects)
+3. ❌ Closed PR [#97](https://github.com/freifunk/projects/pull/97) in [freifunk/projects](https://github.com/freifunk/projects)
 4. 🎉 Merged PR [#63](https://github.com/andibraeu/RelativeDateParser/pull/63) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
 5. 💪 Opened PR [#63](https://github.com/andibraeu/RelativeDateParser/pull/63) in [andibraeu/RelativeDateParser](https://github.com/andibraeu/RelativeDateParser)
 6. 🗣 Commented on [#737](https://github.com/freifunk/directory.api.freifunk.net/pull/737#issuecomment-3654851218) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
