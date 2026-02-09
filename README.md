@@ -65,13 +65,13 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.8.2](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-2. 🚀 Published release [v0.8.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-3. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3867044111) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-4. ❌ Closed PR [#102](https://github.com/freifunk/projects/pull/102) in [freifunk/projects](https://github.com/freifunk/projects)
-5. ❌ Closed PR [#97](https://github.com/freifunk/projects/pull/97) in [freifunk/projects](https://github.com/freifunk/projects)
-6. 🗣 Commented on [#737](https://github.com/freifunk/directory.api.freifunk.net/pull/737#issuecomment-3654851218) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-7. ❌ Closed PR [#737](https://github.com/freifunk/directory.api.freifunk.net/pull/737) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+1. 🔒 Closed issue [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+2. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3870022125) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+3. 🚀 Published release [v0.8.2](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+4. 🚀 Published release [v0.8.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+5. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3867044111) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+6. ❌ Closed PR [#102](https://github.com/freifunk/projects/pull/102) in [freifunk/projects](https://github.com/freifunk/projects)
+7. ❌ Closed PR [#97](https://github.com/freifunk/projects/pull/97) in [freifunk/projects](https://github.com/freifunk/projects)
 8. ❌ Merged PR [#82](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
 9. ❗ Opened issue [#83](https://github.com/freifunk/social-media-archive/issues/83) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
 10. 💪 Opened PR [#82](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
