@@ -65,15 +65,15 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-2. 💪 Opened PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-3. ❌ Closed PR [#41](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/41) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-4. 🔒 Closed issue [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-5. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3870022125) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-6. 🚀 Published release [v0.8.2](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-7. 🚀 Published release [v0.8.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-8. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3867044111) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-9. ❗ Opened issue [#83](https://github.com/freifunk/social-media-archive/issues/83) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
+1. 🚀 Published release [v0.9.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.9.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+2. 🎉 Merged PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+3. 💪 Opened PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+4. ❌ Closed PR [#41](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/41) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+5. 🔒 Closed issue [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+6. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3870022125) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+7. 🚀 Published release [v0.8.2](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+8. 🚀 Published release [v0.8.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+9. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3867044111) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 10. 💪 Opened PR [#82](undefined) in [freifunk/social-media-archive](https://github.com/freifunk/social-media-archive)
 <!--END_SECTION:activity-->
 
