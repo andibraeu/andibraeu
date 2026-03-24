@@ -65,12 +65,12 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#675](https://github.com/freifunk/directory.api.freifunk.net/issues/675) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-2. 💪 Opened PR [#46734](https://github.com/hashicorp/terraform-provider-aws/pull/46734) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-3. 🚀 Published release [v0.9.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.9.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-4. 🎉 Merged PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-5. 💪 Opened PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-6. 🔒 Closed issue [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+1. 💪 Opened PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+2. 🔒 Closed issue [#675](https://github.com/freifunk/directory.api.freifunk.net/issues/675) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+3. 💪 Opened PR [#46734](https://github.com/hashicorp/terraform-provider-aws/pull/46734) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+4. 🚀 Published release [v0.9.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.9.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+5. 🎉 Merged PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+6. 💪 Opened PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 7. 🗣 Commented on [#30](https://github.com/andibraeu/cert-manager-webhook-inwx/issues/30#issuecomment-3870022125) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 8. 🚀 Published release [v0.8.2](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.2) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 9. 🚀 Published release [v0.8.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.8.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
