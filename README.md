@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1590](https://github.com/openwrt/asu/pull/1590#issuecomment-4140713996) in [openwrt/asu](https://github.com/openwrt/asu)
-2. 🗣 Commented on [#747](https://github.com/freifunk/directory.api.freifunk.net/pull/747#issuecomment-4138532668) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-3. 🗣 Commented on [#1590](https://github.com/openwrt/asu/pull/1590#issuecomment-4138396352) in [openwrt/asu](https://github.com/openwrt/asu)
-4. 💪 Opened PR [#1590](https://github.com/openwrt/asu/pull/1590) in [openwrt/asu](https://github.com/openwrt/asu)
-5. 💪 Opened PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-6. 🔒 Closed issue [#675](https://github.com/freifunk/directory.api.freifunk.net/issues/675) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-7. 💪 Opened PR [#46734](https://github.com/hashicorp/terraform-provider-aws/pull/46734) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-8. 🚀 Published release [v0.9.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.9.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-9. 🎉 Merged PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-10. 💪 Opened PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+1. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4151117719) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+2. 🗣 Commented on [#1590](https://github.com/openwrt/asu/pull/1590#issuecomment-4140713996) in [openwrt/asu](https://github.com/openwrt/asu)
+3. 🗣 Commented on [#747](https://github.com/freifunk/directory.api.freifunk.net/pull/747#issuecomment-4138532668) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+4. 🗣 Commented on [#1590](https://github.com/openwrt/asu/pull/1590#issuecomment-4138396352) in [openwrt/asu](https://github.com/openwrt/asu)
+5. 💪 Opened PR [#1590](https://github.com/openwrt/asu/pull/1590) in [openwrt/asu](https://github.com/openwrt/asu)
+6. 💪 Opened PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+7. 🔒 Closed issue [#675](https://github.com/freifunk/directory.api.freifunk.net/issues/675) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+8. 💪 Opened PR [#46734](https://github.com/hashicorp/terraform-provider-aws/pull/46734) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+9. 🚀 Published release [v0.9.0](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.9.0) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+10. 🎉 Merged PR [#47](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/47) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 <!--END_SECTION:activity-->
 
 
