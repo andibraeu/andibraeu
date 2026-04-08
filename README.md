@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-2. 🎉 Merged PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-3. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4192401333) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-4. ℹ️ Reopened PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-5. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4189163551) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-6. ❌ Closed PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-7. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4187269654) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-8. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4175364724) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-9. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4151117719) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-10. 🗣 Commented on [#1590](https://github.com/openwrt/asu/pull/1590#issuecomment-4140713996) in [openwrt/asu](https://github.com/openwrt/asu)
+1. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4204377538) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+2. 💪 Opened PR [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+3. 🎉 Merged PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+4. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4192401333) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+5. ℹ️ Reopened PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+6. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4189163551) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+7. ❌ Closed PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+8. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4187269654) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+9. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4175364724) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+10. 🗣 Commented on [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154#issuecomment-4151117719) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
 <!--END_SECTION:activity-->
 
 
