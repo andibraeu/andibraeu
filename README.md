@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4221236916) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-2. ❌ Closed PR [#35](https://github.com/weimarnetz/packages/pull/35) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-3. 💪 Opened PR [#36](https://github.com/weimarnetz/packages/pull/36) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-4. 💪 Opened PR [#35](https://github.com/weimarnetz/packages/pull/35) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-5. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4217586723) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-6. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4217030159) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-7. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4209401697) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-8. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4204377538) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-9. 💪 Opened PR [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-10. 🎉 Merged PR [#154](https://github.com/openwrt/firmware-selector-openwrt-org/pull/154) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+1. 🎉 Merged PR [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+2. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4223930144) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+3. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4221236916) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+4. ❌ Closed PR [#35](https://github.com/weimarnetz/packages/pull/35) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+5. 💪 Opened PR [#36](https://github.com/weimarnetz/packages/pull/36) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+6. 💪 Opened PR [#35](https://github.com/weimarnetz/packages/pull/35) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+7. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4217586723) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+8. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4217030159) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+9. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4209401697) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+10. 🗣 Commented on [#161](https://github.com/openwrt/firmware-selector-openwrt-org/pull/161#issuecomment-4204377538) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
 <!--END_SECTION:activity-->
 
 
