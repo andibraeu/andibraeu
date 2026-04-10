@@ -41,10 +41,10 @@ In my blog [Digital Worlds](https://blog.andi95.de) I try to share my knowledge 
 You like numbers? Here they are:
 
 <a href="https://github.com/andibraeu">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andibraeu&rank_icon=github&theme=transparent" />
+  <img height=200 align="center" src="profile/stats.svg" />
 </a>
 <a href="https://github.com/andibraeu">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andibraeu&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="profile/top-langs.svg" />
 </8
 
 <!--
