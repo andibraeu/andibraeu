@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/weimarnetz/packages/pull/39) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-2. 💪 Opened PR [#39](https://github.com/weimarnetz/packages/pull/39) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-3. 🎉 Merged PR [#163](https://github.com/openwrt/firmware-selector-openwrt-org/pull/163) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-4. 🎉 Merged PR [#37](https://github.com/weimarnetz/packages/pull/37) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-5. 💪 Opened PR [#37](https://github.com/weimarnetz/packages/pull/37) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-6. 🗣 Commented on [#163](https://github.com/openwrt/firmware-selector-openwrt-org/pull/163#issuecomment-4241648999) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-7. 💪 Opened PR [#163](https://github.com/openwrt/firmware-selector-openwrt-org/pull/163) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-8. 🗣 Commented on [#1590](https://github.com/openwrt/asu/pull/1590#issuecomment-4237311464) in [openwrt/asu](https://github.com/openwrt/asu)
-9. ❌ Closed PR [#1590](https://github.com/openwrt/asu/pull/1590) in [openwrt/asu](https://github.com/openwrt/asu)
-10. 🎉 Merged PR [#36](https://github.com/weimarnetz/packages/pull/36) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+1. 🗣 Commented on [#280](https://github.com/weimarnetz/weimarnetz/issues/280#issuecomment-4288155026) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
+2. 🔒 Closed issue [#280](https://github.com/weimarnetz/weimarnetz/issues/280) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
+3. ℹ️ Labeled issue [#280](https://github.com/weimarnetz/weimarnetz/issues/280) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
+4. 🔒 Closed issue [#346](https://github.com/weimarnetz/weimarnetz/issues/346) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
+5. 🗣 Commented on [#346](https://github.com/weimarnetz/weimarnetz/issues/346#issuecomment-4288088974) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
+6. 🔒 Closed issue [#351](https://github.com/weimarnetz/weimarnetz/issues/351) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
+7. 🎉 Merged PR [#39](https://github.com/weimarnetz/packages/pull/39) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+8. 💪 Opened PR [#39](https://github.com/weimarnetz/packages/pull/39) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+9. 🎉 Merged PR [#163](https://github.com/openwrt/firmware-selector-openwrt-org/pull/163) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+10. 🎉 Merged PR [#37](https://github.com/weimarnetz/packages/pull/37) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
 <!--END_SECTION:activity-->
 
 
