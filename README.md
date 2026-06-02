@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#280](https://github.com/weimarnetz/weimarnetz/issues/280#issuecomment-4288155026) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
+1. ❗ Opened issue [#2](https://github.com/weimarnetz/firmware-selector-overlay/issues/2) in [weimarnetz/firmware-selector-overlay](https://github.com/weimarnetz/firmware-selector-overlay)
 2. 🔒 Closed issue [#280](https://github.com/weimarnetz/weimarnetz/issues/280) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
 3. ℹ️ Labeled issue [#280](https://github.com/weimarnetz/weimarnetz/issues/280) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
 4. 🔒 Closed issue [#346](https://github.com/weimarnetz/weimarnetz/issues/346) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
