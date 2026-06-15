@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/openwrt/firmware-selector-openwrt-org/pull/180#issuecomment-4606778276) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-2. ❗ Opened issue [#2](https://github.com/weimarnetz/firmware-selector-overlay/issues/2) in [weimarnetz/firmware-selector-overlay](https://github.com/weimarnetz/firmware-selector-overlay)
-3. ℹ️ Labeled issue [#280](https://github.com/weimarnetz/weimarnetz/issues/280) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
-4. 🔒 Closed issue [#346](https://github.com/weimarnetz/weimarnetz/issues/346) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
+1. ℹ️ Labeled issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+2. ❗ Opened issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+3. 🗣 Commented on [#180](https://github.com/openwrt/firmware-selector-openwrt-org/pull/180#issuecomment-4606778276) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+4. ❗ Opened issue [#2](https://github.com/weimarnetz/firmware-selector-overlay/issues/2) in [weimarnetz/firmware-selector-overlay](https://github.com/weimarnetz/firmware-selector-overlay)
 5. 🗣 Commented on [#346](https://github.com/weimarnetz/weimarnetz/issues/346#issuecomment-4288088974) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
 6. 🔒 Closed issue [#351](https://github.com/weimarnetz/weimarnetz/issues/351) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
 7. 🎉 Merged PR [#39](https://github.com/weimarnetz/packages/pull/39) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
