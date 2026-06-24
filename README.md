@@ -65,12 +65,12 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/weimarnetz/packages/pull/53) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-2. ℹ️ Labeled issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-3. ❗ Opened issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-4. 🗣 Commented on [#180](https://github.com/openwrt/firmware-selector-openwrt-org/pull/180#issuecomment-4606778276) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
-5. ❗ Opened issue [#2](https://github.com/weimarnetz/firmware-selector-overlay/issues/2) in [weimarnetz/firmware-selector-overlay](https://github.com/weimarnetz/firmware-selector-overlay)
-6. 🔒 Closed issue [#351](https://github.com/weimarnetz/weimarnetz/issues/351) in [weimarnetz/weimarnetz](https://github.com/weimarnetz/weimarnetz)
+1. 🎉 Merged PR [#53](https://github.com/weimarnetz/packages/pull/53) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+2. 💪 Opened PR [#53](https://github.com/weimarnetz/packages/pull/53) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+3. ℹ️ Labeled issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+4. ❗ Opened issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+5. 🗣 Commented on [#180](https://github.com/openwrt/firmware-selector-openwrt-org/pull/180#issuecomment-4606778276) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
+6. ❗ Opened issue [#2](https://github.com/weimarnetz/firmware-selector-overlay/issues/2) in [weimarnetz/firmware-selector-overlay](https://github.com/weimarnetz/firmware-selector-overlay)
 7. 🎉 Merged PR [#39](https://github.com/weimarnetz/packages/pull/39) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
 8. 💪 Opened PR [#39](https://github.com/weimarnetz/packages/pull/39) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
 9. 🎉 Merged PR [#163](https://github.com/openwrt/firmware-selector-openwrt-org/pull/163) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
