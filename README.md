@@ -30,10 +30,10 @@ In my blog [Digital Worlds](https://blog.andi95.de) I try to share my knowledge 
 
 <!-- BLOG-POST-LIST:START -->
 - [Vom Kabelsalat ins 10″-Rack: Mein k3s-Umbau mit NAS und Democratic CSI](https://blog.andi95.de/2026/04/vom-kabelsalat-ins-10-rack-mein-k3s-umbau-mit-nas-und-democratic-csi/?pk_campaign=feed&pk_kwd=vom-kabelsalat-ins-10-rack-mein-k3s-umbau-mit-nas-und-democratic-csi)
-- [Kubernetes Secrets with Sealed Secrets](https://blog.andi95.de/en/2025/03/kubernetes-secrets-with-sealed-secrets/?pk_campaign=feed&pk_kwd=kubernetes-secrets-with-sealed-secrets)
 - [Smarthome: Von FHEM über openHAB zu Home Assistant](https://blog.andi95.de/2025/03/smarthome-von-fhem-ueber-openhab-zu-home-assistant/?pk_campaign=feed&pk_kwd=smarthome-von-fhem-ueber-openhab-zu-home-assistant)
-- [GitOps with FluxCD for my home Kubernetes cluster](https://blog.andi95.de/en/2025/03/gitops-with-fluxcd-for-my-home-kubernetes-cluster/?pk_campaign=feed&pk_kwd=gitops-with-fluxcd-for-my-home-kubernetes-cluster)
-- [Initialisation of my home Kubernetes cluster: k3s with Ansible](https://blog.andi95.de/en/2025/02/initialisation-of-my-home-kubernetes-cluster-k3s-with-ansible/?pk_campaign=feed&pk_kwd=initialisation-of-my-home-kubernetes-cluster-k3s-with-ansible)
+- [Wenn automatische Updates fehlschlagen](https://blog.andi95.de/2025/02/wenn-automatische-updates-fehlschlagen/?pk_campaign=feed&pk_kwd=wenn-automatische-updates-fehlschlagen)
+- [Anwendungen in meinem k3s-Setup](https://blog.andi95.de/2025/02/anwendungen-in-meinem-k3s-setup/?pk_campaign=feed&pk_kwd=anwendungen-in-meinem-k3s-setup)
+- [K3s: Automatisierte Updates mit Renovate](https://blog.andi95.de/2025/02/automatisierte-updates-mit-renovate/?pk_campaign=feed&pk_kwd=automatisierte-updates-mit-renovate)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Numbers and Stats
