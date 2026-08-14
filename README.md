@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#749](https://github.com/freifunk/directory.api.freifunk.net/pull/749#issuecomment-5158660492) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-2. 🗣 Commented on [#750](https://github.com/freifunk/directory.api.freifunk.net/pull/750#issuecomment-5158553473) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-3. 🗣 Commented on [#749](https://github.com/freifunk/directory.api.freifunk.net/pull/749#issuecomment-4912191033) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-4. 🎉 Merged PR [#53](https://github.com/weimarnetz/packages/pull/53) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+1. 🗣 Commented on [#751](https://github.com/freifunk/directory.api.freifunk.net/pull/751#issuecomment-5294330183) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+2. 🗣 Commented on [#751](https://github.com/freifunk/directory.api.freifunk.net/pull/751#issuecomment-5294276688) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+3. 🗣 Commented on [#749](https://github.com/freifunk/directory.api.freifunk.net/pull/749#issuecomment-5158660492) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+4. 🗣 Commented on [#750](https://github.com/freifunk/directory.api.freifunk.net/pull/750#issuecomment-5158553473) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
 5. 💪 Opened PR [#53](https://github.com/weimarnetz/packages/pull/53) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
 6. ℹ️ Labeled issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
 7. ❗ Opened issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
