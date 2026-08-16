@@ -65,14 +65,14 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#751](https://github.com/freifunk/directory.api.freifunk.net/pull/751#issuecomment-5294330183) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-2. 🗣 Commented on [#751](https://github.com/freifunk/directory.api.freifunk.net/pull/751#issuecomment-5294276688) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-3. 🗣 Commented on [#749](https://github.com/freifunk/directory.api.freifunk.net/pull/749#issuecomment-5158660492) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-4. 🗣 Commented on [#750](https://github.com/freifunk/directory.api.freifunk.net/pull/750#issuecomment-5158553473) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-5. 💪 Opened PR [#53](https://github.com/weimarnetz/packages/pull/53) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-6. ℹ️ Labeled issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-7. ❗ Opened issue [#50](https://github.com/weimarnetz/packages/issues/50) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
-8. 💪 Opened PR [#39](https://github.com/weimarnetz/packages/pull/39) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
+1. ❌ Closed PR [#82](https://github.com/freifunk/voctoweb/pull/82) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+2. ❌ Closed PR [#81](https://github.com/freifunk/voctoweb/pull/81) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+3. ❌ Closed PR [#78](https://github.com/freifunk/voctoweb/pull/78) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+4. ❌ Closed PR [#79](https://github.com/freifunk/voctoweb/pull/79) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+5. 🗣 Commented on [#751](https://github.com/freifunk/directory.api.freifunk.net/pull/751#issuecomment-5294330183) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+6. 🗣 Commented on [#751](https://github.com/freifunk/directory.api.freifunk.net/pull/751#issuecomment-5294276688) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+7. 🗣 Commented on [#749](https://github.com/freifunk/directory.api.freifunk.net/pull/749#issuecomment-5158660492) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+8. 🗣 Commented on [#750](https://github.com/freifunk/directory.api.freifunk.net/pull/750#issuecomment-5158553473) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
 9. 🎉 Merged PR [#163](https://github.com/openwrt/firmware-selector-openwrt-org/pull/163) in [openwrt/firmware-selector-openwrt-org](https://github.com/openwrt/firmware-selector-openwrt-org)
 10. 🎉 Merged PR [#37](https://github.com/weimarnetz/packages/pull/37) in [weimarnetz/packages](https://github.com/weimarnetz/packages)
 <!--END_SECTION:activity-->
