@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#760](https://github.com/freifunk/directory.api.freifunk.net/pull/760#issuecomment-6080425923) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-2. 🗣 Commented on [#755](https://github.com/freifunk/directory.api.freifunk.net/pull/755#issuecomment-5728822299) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-3. 🗣 Commented on [#754](https://github.com/freifunk/directory.api.freifunk.net/pull/754#issuecomment-5493957782) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+1. 🗣 Commented on [#760](https://github.com/freifunk/directory.api.freifunk.net/pull/760#issuecomment-6080577035) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+2. 🗣 Commented on [#760](https://github.com/freifunk/directory.api.freifunk.net/pull/760#issuecomment-6080425923) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
+3. 🗣 Commented on [#755](https://github.com/freifunk/directory.api.freifunk.net/pull/755#issuecomment-5728822299) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
 4. 🗣 Commented on [#755](https://github.com/freifunk/directory.api.freifunk.net/pull/755#issuecomment-5493934561) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
 5. ❌ Closed PR [#81](https://github.com/freifunk/voctoweb/pull/81) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
 6. ❌ Closed PR [#78](https://github.com/freifunk/voctoweb/pull/78) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
