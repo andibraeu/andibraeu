@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#91](https://github.com/freifunk/voctoweb/pull/91) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
-2. 🎉 Merged PR [#4](https://github.com/andibraeu/rumsbums-es/pull/4) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
-3. 💪 Opened PR [#4](https://github.com/andibraeu/rumsbums-es/pull/4) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
-4. ❌ Closed PR [#2](https://github.com/andibraeu/rumsbums-es/pull/2) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
-5. ❌ Closed PR [#1](https://github.com/andibraeu/rumsbums-es/pull/1) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
-6. ❌ Closed PR [#87](https://github.com/freifunk/voctoweb/pull/87) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
-7. 💪 Opened PR [#88](https://github.com/freifunk/voctoweb/pull/88) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
-8. 🎉 Merged PR [#77](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/77) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-9. 💪 Opened PR [#77](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/77) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-10. 🎉 Merged PR [#76](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/76) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+1. 🚀 Published release [v0.9.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.9.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+2. 💪 Opened PR [#91](https://github.com/freifunk/voctoweb/pull/91) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+3. 🎉 Merged PR [#4](https://github.com/andibraeu/rumsbums-es/pull/4) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
+4. 💪 Opened PR [#4](https://github.com/andibraeu/rumsbums-es/pull/4) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
+5. ❌ Closed PR [#2](https://github.com/andibraeu/rumsbums-es/pull/2) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
+6. ❌ Closed PR [#1](https://github.com/andibraeu/rumsbums-es/pull/1) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
+7. ❌ Closed PR [#87](https://github.com/freifunk/voctoweb/pull/87) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+8. 💪 Opened PR [#88](https://github.com/freifunk/voctoweb/pull/88) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+9. 🎉 Merged PR [#77](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/77) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
+10. 💪 Opened PR [#77](https://github.com/andibraeu/cert-manager-webhook-inwx/pull/77) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
 <!--END_SECTION:activity-->
 
 
