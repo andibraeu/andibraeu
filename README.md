@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#95](https://github.com/freifunk/voctoweb/pull/95) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
-2. 💪 Opened PR [#93](https://github.com/freifunk/voctoweb/pull/93) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
-3. 🗣 Commented on [#754](https://github.com/freifunk/directory.api.freifunk.net/pull/754#issuecomment-6436169886) in [freifunk/directory.api.freifunk.net](https://github.com/freifunk/directory.api.freifunk.net)
-4. 💪 Opened PR [#92](https://github.com/freifunk/voctoweb/pull/92) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
-5. ❌ Closed PR [#6](https://github.com/andibraeu/rumsbums-es/pull/6) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
-6. 💪 Opened PR [#6](https://github.com/andibraeu/rumsbums-es/pull/6) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
-7. 🚀 Published release [v0.9.1](https://github.com/andibraeu/cert-manager-webhook-inwx/releases/tag/v0.9.1) in [andibraeu/cert-manager-webhook-inwx](https://github.com/andibraeu/cert-manager-webhook-inwx)
-8. 💪 Opened PR [#91](https://github.com/freifunk/voctoweb/pull/91) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
-9. 🎉 Merged PR [#4](https://github.com/andibraeu/rumsbums-es/pull/4) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
-10. 💪 Opened PR [#4](https://github.com/andibraeu/rumsbums-es/pull/4) in [andibraeu/rumsbums-es](https://github.com/andibraeu/rumsbums-es)
+1. ❌ Closed PR [#88](https://github.com/freifunk/voctoweb/pull/88) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+2. ❌ Closed PR [#99](https://github.com/freifunk/voctoweb/pull/99) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+3. ❌ Closed PR [#91](https://github.com/freifunk/voctoweb/pull/91) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+4. ❌ Closed PR [#93](https://github.com/freifunk/voctoweb/pull/93) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+5. ❌ Closed PR [#92](https://github.com/freifunk/voctoweb/pull/92) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+6. ❌ Closed PR [#95](https://github.com/freifunk/voctoweb/pull/95) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+7. ❌ Closed PR [#98](https://github.com/freifunk/voctoweb/pull/98) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+8. ❌ Closed PR [#97](https://github.com/freifunk/voctoweb/pull/97) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+9. ❌ Closed PR [#96](https://github.com/freifunk/voctoweb/pull/96) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+10. ❌ Closed PR [#94](https://github.com/freifunk/voctoweb/pull/94) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
 <!--END_SECTION:activity-->
 
 
