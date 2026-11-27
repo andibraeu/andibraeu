@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ## 👣 Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/efahl/owut/pull/92) in [efahl/owut](https://github.com/efahl/owut)
-2. ❗ Opened issue [#91](https://github.com/efahl/owut/issues/91) in [efahl/owut](https://github.com/efahl/owut)
-3. 💪 Opened PR [#180](https://github.com/freifunk/api.freifunk.net/pull/180) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-4. ❌ Closed PR [#174](https://github.com/freifunk/api.freifunk.net/pull/174) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-5. ❌ Closed PR [#170](https://github.com/freifunk/api.freifunk.net/pull/170) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
-6. 💪 Opened PR [#301](https://github.com/freifunk/generator.api.freifunk.net/pull/301) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
-7. 🗣 Commented on [#196](https://github.com/freifunk-berlin/berlin.freifunk.net/issues/196#issuecomment-6896219349) in [freifunk-berlin/berlin.freifunk.net](https://github.com/freifunk-berlin/berlin.freifunk.net)
-8. 🗣 Commented on [#978](https://github.com/voc/voctoweb/pull/978#issuecomment-6853889538) in [voc/voctoweb](https://github.com/voc/voctoweb)
-9. ❌ Closed PR [#88](https://github.com/freifunk/voctoweb/pull/88) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
-10. ❌ Closed PR [#99](https://github.com/freifunk/voctoweb/pull/99) in [freifunk/voctoweb](https://github.com/freifunk/voctoweb)
+1. 🎉 Merged PR [#92](https://github.com/efahl/owut/pull/92) in [efahl/owut](https://github.com/efahl/owut)
+2. 🗣 Commented on [#92](https://github.com/efahl/owut/pull/92#issuecomment-7204251310) in [efahl/owut](https://github.com/efahl/owut)
+3. 💪 Opened PR [#92](https://github.com/efahl/owut/pull/92) in [efahl/owut](https://github.com/efahl/owut)
+4. ❗ Opened issue [#91](https://github.com/efahl/owut/issues/91) in [efahl/owut](https://github.com/efahl/owut)
+5. 💪 Opened PR [#180](https://github.com/freifunk/api.freifunk.net/pull/180) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+6. ❌ Closed PR [#174](https://github.com/freifunk/api.freifunk.net/pull/174) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+7. ❌ Closed PR [#170](https://github.com/freifunk/api.freifunk.net/pull/170) in [freifunk/api.freifunk.net](https://github.com/freifunk/api.freifunk.net)
+8. 💪 Opened PR [#301](https://github.com/freifunk/generator.api.freifunk.net/pull/301) in [freifunk/generator.api.freifunk.net](https://github.com/freifunk/generator.api.freifunk.net)
+9. 🗣 Commented on [#196](https://github.com/freifunk-berlin/berlin.freifunk.net/issues/196#issuecomment-6896219349) in [freifunk-berlin/berlin.freifunk.net](https://github.com/freifunk-berlin/berlin.freifunk.net)
+10. 🗣 Commented on [#978](https://github.com/voc/voctoweb/pull/978#issuecomment-6853889538) in [voc/voctoweb](https://github.com/voc/voctoweb)
 <!--END_SECTION:activity-->
 
 
